@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Page d'accueil -->
+  <url>
+    <loc>https://ekores.online/index.html</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Parcours académique -->
+  <url>
+    <loc>https://ekores.online/formation.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://ekores.online/ContactezMoi.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Compétences -->
+  <url>
+    <loc>https://ekores.online/Competence.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Expériences -->
+  <url>
+    <loc>https://ekores.online/Experience.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Projets -->
+  <url>
+    <loc>https://ekores.online/project.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
